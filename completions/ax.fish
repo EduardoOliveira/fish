@@ -1,0 +1,1 @@
+/Users/eduardooliveira/repos/cmd/ax/fish/completions.fish
