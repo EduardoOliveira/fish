@@ -1,1 +1,1 @@
-/Users/eduardooliveira/repos/cmd/ax/fish/completions.fish
+/Users/eduardooliveira/repos/aim/ax/fish/completions.fish
